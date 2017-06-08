@@ -1,0 +1,1134 @@
+curl -H -XPOST http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms --data-binary aria,node=Firenze::Lippi pm10=5.47,pm25=2.31    1488027589335
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=5.47,pm25=2.31    1488027589335'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=4.40,pm25=2.58    1488047212661'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=3.61,pm25=2.43    1488047887366'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=3.68,pm25=2.29    1488052535724'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.94,pm25=9.06    1488100208178'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.61,pm25:8.52,user:salvatore,pwd:lippi,created:   1488148120484}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.85,pm25=7.21    1488157848121'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.31,pm25:6.37,user:salvatore,pwd:lippi,created:   1488172893847}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.34,pm25=6.01    1488173200433'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.34,pm25:6.01,user:salvatore,pwd:lippi,created:   1488173201442}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.55,pm25=6.50    1488175016077'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.41,pm25=7.04    1488175081422'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.41,pm25:7.04,user:salvatore,pwd:lippi,created:   1488175081430}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=29.64,pm25=13.68    1488187576449'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:29.64,pm25:13.68,user:salvatore,pwd:lippi,created:   1488187576457}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.32,pm25=5.77    1488214620419'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.32,pm25:5.77,user:salvatore,pwd:lippi,created:   1488214621632}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.86,pm25=4.74    1488280638497'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.69,pm25=5.23    1488319875016'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.69,pm25=5.23    1488319940578'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.81,pm25:3.02,user:salvatore,pwd:lippi,created:   1488324588595}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.97,pm25=5.79    1488357423418'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.22,pm25=4.29    1488366243307'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.68,pm25=3.53    1488367757440'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.26,pm25=4.45    1488381654412'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.35,pm25=5.92    1488409238219'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.61,pm25=5.54    1488411776692'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.87,pm25=4.51    1488439290299'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.70,pm25=5.59    1488445809075'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.85,pm25=4.22    1488473090462'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.23,pm25=4.92    1488477865366'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.17,pm25:5.42,user:salvatore,pwd:lippi,created:   1488478712812}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.50,pm25=6.21    1488479683612'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.16,pm25:4.43,user:salvatore,pwd:lippi,created:   1488480047405}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.65,pm25=6.38    1488482525397'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.83,pm25=6.81    1488482595967'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.09,pm25=6.96    1488482841719'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.05,pm25=7.33    1488484772230'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.77,pm25=7.04    1488485012487'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.05,pm25:7.33,user:salvatore,pwd:lippi,created:   1488484772238}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.77,pm25:7.04,user:salvatore,pwd:lippi,created:   1488485012495}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.09,pm25:6.57,user:salvatore,pwd:lippi,created:   1488486042791}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.14,pm25:6.87,user:salvatore,pwd:lippi,created:   1488486283049}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.09,pm25=6.57    1488486040719'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.14,pm25=6.87    1488486283041'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=27.48,pm25=6.99    1488486348361'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.78,pm25=7.28    1488486590235'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.73,pm25=6.70    1488486650312'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.45,pm25=7.15    1488486890569'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.51,pm25=6.83    1488486950646'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.78,pm25:7.28,user:salvatore,pwd:lippi,created:   1488486590243}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.73,pm25:6.70,user:salvatore,pwd:lippi,created:   1488486650320}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.45,pm25:7.15,user:salvatore,pwd:lippi,created:   1488486890577}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.51,pm25:6.83,user:salvatore,pwd:lippi,created:   1488486950654}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.21,pm25:7.50,user:salvatore,pwd:lippi,created:   1488488325893}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.84,pm25=7.40    1488488586094'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.08,pm25=7.75    1488489804649'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.32,pm25=7.78    1488490108931'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.91,pm25=5.67    1488500553278'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.48,pm25:5.96,user:salvatore,pwd:lippi,created:   1488516179096}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.82,pm25=6.63    1488522091308'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.85,pm25=6.14    1488522151385'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.63,pm25=6.55    1488522391618'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.64,pm25=6.14    1488522451694'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.98,pm25=7.04    1488522691889'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.22,pm25=6.88    1488522751928'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.20,pm25=7.64    1488522992089'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.20,pm25=7.64    1488523052130'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.92,pm25=7.70    1488523112171'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.18,pm25=7.50    1488523352330'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.62,pm25=6.73    1488523412371'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.49,pm25=6.91    1488523652529'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.11,pm25=6.14    1488523712570'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.89,pm25=6.14    1488523952748'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.16,pm25=6.29    1488524012768'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.29,pm25=6.68    1488524252935'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.01,pm25=6.80    1488524313011'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.01,pm25=6.80    1488524373088'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.23,pm25=6.95    1488524613308'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.30,pm25=7.22    1488524673385'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.05,pm25=7.38    1488524913618'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.88,pm25=6.59    1488524973695'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.65,pm25=7.56    1488525213952'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=27.21,pm25=8.36    1488525273998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.41,pm25=8.47    1488525514248'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.41,pm25=7.65    1488525574324'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.06,pm25=8.29    1488525814558'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.06,pm25=8.29    1488525874634'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.00,pm25=8.07    1488525934711'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.78,pm25=8.84    1488526174928'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.68,pm25=8.53    1488526234998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.62,pm25=8.89    1488526475254'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.05,pm25=8.56    1488526535314'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.30,pm25=8.93    1488526775558'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.50,pm25=8.86    1488526835634'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.23,pm25=9.05    1488527075891'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.70,pm25=8.83    1488527135968'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=28.15,pm25=8.50    1488527376178'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=28.15,pm25=8.50    1488527436248'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.71,pm25=7.95    1488527496324'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.15,pm25=8.36    1488527736558'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.46,pm25=7.77    1488527796634'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.31,pm25=8.38    1488528036891'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.93,pm25=8.01    1488528096968'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=28.34,pm25=8.67    1488528337158'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.39,pm25=8.12    1488528397235'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.12,pm25=7.88    1488528637492'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.29,pm25=7.58    1488528697568'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.29,pm25=7.58    1488528757645'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.08,pm25=7.75    1488528997902'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.48,pm25=7.64    1488529057979'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.34,pm25=7.27    1488529298158'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.03,pm25=5.82    1488529358234'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.72,pm25=5.64    1488529598491'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.06,pm25=5.00    1488529658568'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.25,pm25=5.01    1488529898826'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.71,pm25=4.81    1488529958902'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.50,pm25=5.03    1488530199118'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.50,pm25=5.03    1488530259195'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.99,pm25=5.04    1488530319272'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.19,pm25=5.31    1488530559529'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.71,pm25=5.61    1488530619606'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.17,pm25=5.90    1488530859863'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.39,pm25=5.43    1488530919940'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.50,pm25=5.47    1488531160178'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.77,pm25=5.72    1488531220255'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.53,pm25=5.75    1488531460512'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.01,pm25=4.70    1488531520589'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.01,pm25=4.70    1488531580666'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.55,pm25=4.98    1488531820923'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.08,pm25=5.08    1488531880998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.07,pm25=5.10    1488532121255'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.44,pm25=5.36    1488532181332'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.34,pm25=6.69    1488532421589'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.10,pm25=5.51    1488532481666'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.99,pm25=7.37    1488532721923'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=29.29,pm25=12.12    1488532781998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=31.82,pm25=12.95    1488533022255'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=31.82,pm25=12.95    1488533082332'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=27.67,pm25=8.94    1488533142409'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=31.10,pm25=9.43    1488533382666'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.50,pm25=8.71    1488533442743'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.01,pm25=7.77    1488533682998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.55,pm25=11.48    1488533743075'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=34.09,pm25=11.95    1488533983332'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=34.35,pm25=12.57    1488534043409'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=32.31,pm25=13.24    1488534283666'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.47,pm25=10.90    1488534343743'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.47,pm25=10.90    1488534403820'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.46,pm25=12.28    1488534643998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=28.79,pm25=11.22    1488534704074'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=31.24,pm25=11.82    1488534944248'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.65,pm25=9.88    1488535004324'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.87,pm25=9.25    1488535244582'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.79,pm25=7.55    1488535304660'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.83,pm25=8.57    1488535544917'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.48,pm25=7.73    1488535604994'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.84,pm25=8.22    1488535845213'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.84,pm25=8.22    1488535905291'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.34,pm25=8.97    1488535965368'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=28.29,pm25=9.04    1488536205625'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=32.89,pm25=8.54    1488536265702'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.18,pm25=8.66    1488536505959'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.74,pm25=8.21    1488536565998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=27.30,pm25=8.12    1488536806255'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.11,pm25=7.78    1488536866332'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=31.56,pm25=8.82    1488537106589'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.28,pm25=7.31    1488537166666'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.28,pm25=7.31    1488537226743'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.36,pm25=7.66    1488537466998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=28.12,pm25=8.42    1488537527075'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.99,pm25=8.10    1488537767332'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.22,pm25=7.28    1488537827408'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=27.95,pm25=8.46    1488538067665'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.92,pm25=7.01    1488538127740'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.94,pm25=7.40    1488538367997'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.63,pm25=7.43    1488538428073'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.14,pm25=7.18    1488538668330'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.96,pm25=6.54    1488538728407'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.96,pm25=6.54    1488538788484'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.56,pm25=7.48    1488539028742'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.18,pm25=6.86    1488539088819'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.58,pm25=6.89    1488539329058'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.59,pm25=6.11    1488539389135'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.36,pm25=6.29    1488539629392'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.82,pm25=7.07    1488539689469'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.84,pm25=6.80    1488539929726'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.23,pm25=7.03    1488539989803'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.11,pm25=7.43    1488540230058'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.11,pm25=7.43    1488540290135'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.85,pm25=6.06    1488540350212'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.07,pm25=6.99    1488540590469'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.58,pm25=6.48    1488540650546'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.36,pm25=7.13    1488540890803'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.59,pm25=6.35    1488540950880'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.03,pm25=7.04    1488541191118'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.85,pm25=6.72    1488541251195'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.61,pm25=7.35    1488541491452'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.85,pm25=6.58    1488541551529'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.85,pm25=6.58    1488541611606'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.47,pm25=6.65    1488541851863'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.12,pm25=6.81    1488541911940'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=25.60,pm25=7.42    1488542152178'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.50,pm25=7.36    1488542212255'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.70,pm25=8.10    1488542452512'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.94,pm25=6.75    1488542512590'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=23.63,pm25=7.26    1488542752847'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.06,pm25=6.43    1488542812924'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.69,pm25=6.72    1488543053181'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.69,pm25=6.72    1488543113258'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.47,pm25=6.62    1488543173335'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.80,pm25=6.97    1488543413592'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.86,pm25=6.75    1488543473665'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=21.03,pm25=6.55    1488543713922'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.93,pm25=6.50    1488543773999'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.23,pm25=6.76    1488544014256'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.07,pm25=6.09    1488544074333'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.99,pm25=6.74    1488544314590'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.66,pm25=6.91    1488544374667'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.66,pm25=6.91    1488544434743'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.79,pm25=6.81    1488544675000'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.28,pm25=6.26    1488544735077'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.34,pm25=5.98    1488544975334'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.01,pm25=5.61    1488545035358'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.54,pm25=5.78    1488545275615'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=22.90,pm25=6.31    1488545335692'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.74,pm25=5.99    1488545575949'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.07,pm25=5.23    1488545636026'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.26,pm25=5.74    1488545876283'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.26,pm25=5.74    1488545936360'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.88,pm25=5.43    1488545996437'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.42,pm25=5.75    1488546236694'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.00,pm25=6.05    1488546296771'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.66,pm25=6.32    1488546537028'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.48,pm25=5.10    1488546597105'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.16,pm25=5.31    1488546837362'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.06,pm25=5.11    1488546897439'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.78,pm25=5.26    1488547137696'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.25,pm25=4.75    1488547197773'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.25,pm25=4.75    1488547257849'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.64,pm25=4.75    1488547498106'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.80,pm25=4.82    1488547558183'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.72,pm25=5.24    1488547798440'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.02,pm25=5.22    1488547858517'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.13,pm25=5.58    1488548098774'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.78,pm25=5.25    1488548158851'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.81,pm25=5.94    1488548399108'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.95,pm25=5.72    1488548459185'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.33,pm25=5.77    1488548699413'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.33,pm25=5.77    1488548759490'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.42,pm25=5.70    1488548819567'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.45,pm25=5.80    1488549059824'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.96,pm25=5.34    1488549119901'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.26,pm25=5.67    1488549360158'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.72,pm25=5.92    1488549420235'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.10,pm25=6.04    1488549660492'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.08,pm25=5.77    1488549720570'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.62,pm25=6.07    1488549960827'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.82,pm25=6.20    1488550020904'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.82,pm25=6.20    1488550080980'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.89,pm25=6.24    1488550321237'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.56,pm25=6.51    1488550381314'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.23,pm25=6.54    1488550621546'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.00,pm25=5.86    1488550681624'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.11,pm25=6.40    1488550921863'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.88,pm25=6.42    1488550981939'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.39,pm25=6.65    1488551222197'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.19,pm25=6.33    1488551282274'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.19,pm25=6.33    1488551342350'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.07,pm25=6.47    1488551582607'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.09,pm25=5.88    1488551642684'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.07,pm25=6.33    1488551882942'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.42,pm25=5.92    1488551943018'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.36,pm25=5.90    1488552183248'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.54,pm25=5.96    1488552243325'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.92,pm25=6.37    1488552483558'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.34,pm25=6.31    1488552543635'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.61,pm25=6.80    1488552783860'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.61,pm25=6.80    1488552843936'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.33,pm25=5.83    1488552904013'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.04,pm25=6.14    1488553144270'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.54,pm25=5.73    1488553204347'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.81,pm25=5.57    1488553444605'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.49,pm25=6.26    1488553504681'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.49,pm25=6.07    1488553744938'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.12,pm25=6.22    1488553805008'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.66,pm25=6.72    1488554045263'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.90,pm25=6.14    1488554105340'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.90,pm25=6.14    1488554165417'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.21,pm25=6.19    1488554405674'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.56,pm25=6.00    1488554465751'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.28,pm25=6.49    1488554706009'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.37,pm25=7.01    1488554766086'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.71,pm25=7.17    1488555006343'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.23,pm25=7.33    1488555066420'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.64,pm25=6.93    1488555306677'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.45,pm25=6.78    1488555366754'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.77,pm25=6.60    1488555606963'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.77,pm25=6.60    1488555666998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.31,pm25=7.26    1488555727074'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.28,pm25=7.26    1488555967332'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.56,pm25=6.87    1488556027408'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.40,pm25=6.86    1488556267665'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.62,pm25=6.57    1488556327742'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.02,pm25=8.17    1488556567999'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.12,pm25=6.70    1488556628075'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.98,pm25=7.31    1488556868332'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.91,pm25=6.46    1488556928410'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.91,pm25=6.46    1488556988487'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.53,pm25=6.22    1488557228744'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.68,pm25=6.11    1488557288820'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.20,pm25=6.34    1488557529078'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.23,pm25=6.48    1488557589154'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.99,pm25=6.41    1488557829412'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.24,pm25=5.97    1488557889489'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.63,pm25=5.83    1488558129746'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.50,pm25=5.31    1488558189823'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.33,pm25=5.79    1488558430080'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.33,pm25=5.79    1488558490157'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.28,pm25=5.83    1488558550234'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.53,pm25=5.72    1488558790491'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.81,pm25=5.71    1488558850568'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.24,pm25=6.56    1488559090825'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.21,pm25=6.42    1488559150902'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.44,pm25=6.77    1488559391158'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.14,pm25=6.76    1488559451235'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.36,pm25=7.10    1488559691492'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.32,pm25=6.12    1488559751568'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.32,pm25=6.12    1488559811646'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.94,pm25=6.81    1488560051903'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.33,pm25=6.46    1488560111980'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.59,pm25=7.23    1488560352178'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.70,pm25=5.88    1488560412255'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.55,pm25=5.95    1488560652513'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.90,pm25=6.23    1488560712590'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.14,pm25=6.63    1488560952847'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.67,pm25=6.29    1488561012924'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.69,pm25=6.82    1488561253108'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.69,pm25=6.82    1488561313185'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.00,pm25=6.46    1488561373262'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.20,pm25=6.62    1488561613519'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=29.71,pm25=11.25    1488561673596'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=26.00,pm25=10.83    1488561913853'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.14,pm25=11.27    1488561973931'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=29.89,pm25=12.31    1488562214178'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=29.37,pm25=10.72    1488562274255'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=28.60,pm25=12.66    1488562514486'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=87.32,pm25=42.08    1488562574563'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=87.32,pm25=42.08    1488562634640'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=108.98,pm25=52.35    1488562874897'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=44.59,pm25=20.35    1488562934974'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=29.12,pm25=13.05    1488563175178'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=20.40,pm25=9.22    1488563235218'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=19.46,pm25=8.83    1488563475475'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.85,pm25=10.11    1488563535552'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=24.02,pm25=9.04    1488563775809'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=27.37,pm25=11.78    1488563835886'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=31.69,pm25=13.03    1488564076143'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=31.69,pm25=13.03    1488564136221'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=30.58,pm25=13.46    1488564196298'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=33.63,pm25=14.21    1488564436555'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=39.34,pm25=16.66    1488564496632'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=41.53,pm25=18.19    1488564736889'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=45.67,pm25=18.87    1488564796966'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=48.33,pm25=19.23    1488565037223'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=42.99,pm25=18.67    1488565097300'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=42.21,pm25=19.42    1488565337558'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=79.05,pm25=33.28    1488565397634'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=65.28,pm25=28.47    1488565637891'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=65.28,pm25=28.47    1488565697968'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=44.25,pm25=19.06    1488565758045'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.82,pm25:6.63,user:salvatore,pwd:lippi,created:   1488522091316}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.85,pm25:6.14,user:salvatore,pwd:lippi,created:   1488522151393}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.63,pm25:6.55,user:salvatore,pwd:lippi,created:   1488522391625}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.64,pm25:6.14,user:salvatore,pwd:lippi,created:   1488522451702}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.98,pm25:7.04,user:salvatore,pwd:lippi,created:   1488522691897}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.22,pm25:6.88,user:salvatore,pwd:lippi,created:   1488522751935}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.20,pm25:7.64,user:salvatore,pwd:lippi,created:   1488522992097}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.20,pm25:7.64,user:salvatore,pwd:lippi,created:   1488523052138}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.92,pm25:7.70,user:salvatore,pwd:lippi,created:   1488523112179}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.18,pm25:7.50,user:salvatore,pwd:lippi,created:   1488523352337}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.62,pm25:6.73,user:salvatore,pwd:lippi,created:   1488523412378}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.49,pm25:6.91,user:salvatore,pwd:lippi,created:   1488523652536}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.11,pm25:6.14,user:salvatore,pwd:lippi,created:   1488523712578}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.89,pm25:6.14,user:salvatore,pwd:lippi,created:   1488523952755}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.16,pm25:6.29,user:salvatore,pwd:lippi,created:   1488524012776}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.29,pm25:6.68,user:salvatore,pwd:lippi,created:   1488524252942}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.01,pm25:6.80,user:salvatore,pwd:lippi,created:   1488524313019}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.01,pm25:6.80,user:salvatore,pwd:lippi,created:   1488524373096}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.23,pm25:6.95,user:salvatore,pwd:lippi,created:   1488524613315}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.30,pm25:7.22,user:salvatore,pwd:lippi,created:   1488524673393}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.05,pm25:7.38,user:salvatore,pwd:lippi,created:   1488524913625}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.88,pm25:6.59,user:salvatore,pwd:lippi,created:   1488524973702}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.65,pm25:7.56,user:salvatore,pwd:lippi,created:   1488525213959}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:27.21,pm25:8.36,user:salvatore,pwd:lippi,created:   1488525274005}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.41,pm25:8.47,user:salvatore,pwd:lippi,created:   1488525514255}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.41,pm25:7.65,user:salvatore,pwd:lippi,created:   1488525574332}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.06,pm25:8.29,user:salvatore,pwd:lippi,created:   1488525814565}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.06,pm25:8.29,user:salvatore,pwd:lippi,created:   1488525874642}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.00,pm25:8.07,user:salvatore,pwd:lippi,created:   1488525934719}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.78,pm25:8.84,user:salvatore,pwd:lippi,created:   1488526174935}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.68,pm25:8.53,user:salvatore,pwd:lippi,created:   1488526235005}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.62,pm25:8.89,user:salvatore,pwd:lippi,created:   1488526475262}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.05,pm25:8.56,user:salvatore,pwd:lippi,created:   1488526535323}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.30,pm25:8.93,user:salvatore,pwd:lippi,created:   1488526775565}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.50,pm25:8.86,user:salvatore,pwd:lippi,created:   1488526835642}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.23,pm25:9.05,user:salvatore,pwd:lippi,created:   1488527075899}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.70,pm25:8.83,user:salvatore,pwd:lippi,created:   1488527135975}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:28.15,pm25:8.50,user:salvatore,pwd:lippi,created:   1488527376186}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:28.15,pm25:8.50,user:salvatore,pwd:lippi,created:   1488527436255}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.71,pm25:7.95,user:salvatore,pwd:lippi,created:   1488527496332}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.15,pm25:8.36,user:salvatore,pwd:lippi,created:   1488527736565}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.46,pm25:7.77,user:salvatore,pwd:lippi,created:   1488527796642}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.31,pm25:8.38,user:salvatore,pwd:lippi,created:   1488528036899}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.93,pm25:8.01,user:salvatore,pwd:lippi,created:   1488528096975}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:28.34,pm25:8.67,user:salvatore,pwd:lippi,created:   1488528337165}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.39,pm25:8.12,user:salvatore,pwd:lippi,created:   1488528397242}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.12,pm25:7.88,user:salvatore,pwd:lippi,created:   1488528637499}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.29,pm25:7.58,user:salvatore,pwd:lippi,created:   1488528697576}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.29,pm25:7.58,user:salvatore,pwd:lippi,created:   1488528757653}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.08,pm25:7.75,user:salvatore,pwd:lippi,created:   1488528997910}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.48,pm25:7.64,user:salvatore,pwd:lippi,created:   1488529057987}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.34,pm25:7.27,user:salvatore,pwd:lippi,created:   1488529298165}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.03,pm25:5.82,user:salvatore,pwd:lippi,created:   1488529358242}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.72,pm25:5.64,user:salvatore,pwd:lippi,created:   1488529598499}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.06,pm25:5.00,user:salvatore,pwd:lippi,created:   1488529658576}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.25,pm25:5.01,user:salvatore,pwd:lippi,created:   1488529898833}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.71,pm25:4.81,user:salvatore,pwd:lippi,created:   1488529958910}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.50,pm25:5.03,user:salvatore,pwd:lippi,created:   1488530199126}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.50,pm25:5.03,user:salvatore,pwd:lippi,created:   1488530259203}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.99,pm25:5.04,user:salvatore,pwd:lippi,created:   1488530319279}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.19,pm25:5.31,user:salvatore,pwd:lippi,created:   1488530559537}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.71,pm25:5.61,user:salvatore,pwd:lippi,created:   1488530619614}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.17,pm25:5.90,user:salvatore,pwd:lippi,created:   1488530859871}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.39,pm25:5.43,user:salvatore,pwd:lippi,created:   1488530919948}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.50,pm25:5.47,user:salvatore,pwd:lippi,created:   1488531160186}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.77,pm25:5.72,user:salvatore,pwd:lippi,created:   1488531220262}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.53,pm25:5.75,user:salvatore,pwd:lippi,created:   1488531460520}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.01,pm25:4.70,user:salvatore,pwd:lippi,created:   1488531520597}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.01,pm25:4.70,user:salvatore,pwd:lippi,created:   1488531580674}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.55,pm25:4.98,user:salvatore,pwd:lippi,created:   1488531820931}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.08,pm25:5.08,user:salvatore,pwd:lippi,created:   1488531881005}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.07,pm25:5.10,user:salvatore,pwd:lippi,created:   1488532121262}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.44,pm25:5.36,user:salvatore,pwd:lippi,created:   1488532181340}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.34,pm25:6.69,user:salvatore,pwd:lippi,created:   1488532421597}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.10,pm25:5.51,user:salvatore,pwd:lippi,created:   1488532481674}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.99,pm25:7.37,user:salvatore,pwd:lippi,created:   1488532721931}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:29.29,pm25:12.12,user:salvatore,pwd:lippi,created:   1488532782005}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:31.82,pm25:12.95,user:salvatore,pwd:lippi,created:   1488533022263}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:31.82,pm25:12.95,user:salvatore,pwd:lippi,created:   1488533082340}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:27.67,pm25:8.94,user:salvatore,pwd:lippi,created:   1488533142417}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:31.10,pm25:9.43,user:salvatore,pwd:lippi,created:   1488533382674}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.50,pm25:8.71,user:salvatore,pwd:lippi,created:   1488533442751}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.01,pm25:7.77,user:salvatore,pwd:lippi,created:   1488533683006}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:30.55,pm25:11.48,user:salvatore,pwd:lippi,created:   1488533743082}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:34.09,pm25:11.95,user:salvatore,pwd:lippi,created:   1488533983340}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:34.35,pm25:12.57,user:salvatore,pwd:lippi,created:   1488534043417}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:32.31,pm25:13.24,user:salvatore,pwd:lippi,created:   1488534283674}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:30.47,pm25:10.90,user:salvatore,pwd:lippi,created:   1488534343751}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:30.47,pm25:10.90,user:salvatore,pwd:lippi,created:   1488534403828}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:30.46,pm25:12.28,user:salvatore,pwd:lippi,created:   1488534644005}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:28.79,pm25:11.22,user:salvatore,pwd:lippi,created:   1488534704082}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:31.24,pm25:11.82,user:salvatore,pwd:lippi,created:   1488534944255}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.65,pm25:9.88,user:salvatore,pwd:lippi,created:   1488535004332}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.87,pm25:9.25,user:salvatore,pwd:lippi,created:   1488535244589}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.79,pm25:7.55,user:salvatore,pwd:lippi,created:   1488535304667}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:30.83,pm25:8.57,user:salvatore,pwd:lippi,created:   1488535544924}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.48,pm25:7.73,user:salvatore,pwd:lippi,created:   1488535605002}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.84,pm25:8.22,user:salvatore,pwd:lippi,created:   1488535845221}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.84,pm25:8.22,user:salvatore,pwd:lippi,created:   1488535905298}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.34,pm25:8.97,user:salvatore,pwd:lippi,created:   1488535965376}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:28.29,pm25:9.04,user:salvatore,pwd:lippi,created:   1488536205633}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:32.89,pm25:8.54,user:salvatore,pwd:lippi,created:   1488536265710}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.18,pm25:8.66,user:salvatore,pwd:lippi,created:   1488536505967}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.74,pm25:8.21,user:salvatore,pwd:lippi,created:   1488536566005}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:27.30,pm25:8.12,user:salvatore,pwd:lippi,created:   1488536806263}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.11,pm25:7.78,user:salvatore,pwd:lippi,created:   1488536866340}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:31.56,pm25:8.82,user:salvatore,pwd:lippi,created:   1488537106597}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.28,pm25:7.31,user:salvatore,pwd:lippi,created:   1488537166674}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.28,pm25:7.31,user:salvatore,pwd:lippi,created:   1488537226751}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.36,pm25:7.66,user:salvatore,pwd:lippi,created:   1488537467005}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:28.12,pm25:8.42,user:salvatore,pwd:lippi,created:   1488537527082}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:30.99,pm25:8.10,user:salvatore,pwd:lippi,created:   1488537767339}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.22,pm25:7.28,user:salvatore,pwd:lippi,created:   1488537827416}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:27.95,pm25:8.46,user:salvatore,pwd:lippi,created:   1488538067673}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.92,pm25:7.01,user:salvatore,pwd:lippi,created:   1488538127747}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.94,pm25:7.40,user:salvatore,pwd:lippi,created:   1488538368004}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.63,pm25:7.43,user:salvatore,pwd:lippi,created:   1488538428081}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.14,pm25:7.18,user:salvatore,pwd:lippi,created:   1488538668338}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.96,pm25:6.54,user:salvatore,pwd:lippi,created:   1488538728415}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.96,pm25:6.54,user:salvatore,pwd:lippi,created:   1488538788492}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.56,pm25:7.48,user:salvatore,pwd:lippi,created:   1488539028749}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.18,pm25:6.86,user:salvatore,pwd:lippi,created:   1488539088827}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.58,pm25:6.89,user:salvatore,pwd:lippi,created:   1488539329065}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.59,pm25:6.11,user:salvatore,pwd:lippi,created:   1488539389142}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.36,pm25:6.29,user:salvatore,pwd:lippi,created:   1488539629400}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.82,pm25:7.07,user:salvatore,pwd:lippi,created:   1488539689477}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.84,pm25:6.80,user:salvatore,pwd:lippi,created:   1488539929734}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.23,pm25:7.03,user:salvatore,pwd:lippi,created:   1488539989811}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.11,pm25:7.43,user:salvatore,pwd:lippi,created:   1488540230065}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.11,pm25:7.43,user:salvatore,pwd:lippi,created:   1488540290142}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.85,pm25:6.06,user:salvatore,pwd:lippi,created:   1488540350219}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.07,pm25:6.99,user:salvatore,pwd:lippi,created:   1488540590477}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.58,pm25:6.48,user:salvatore,pwd:lippi,created:   1488540650554}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.36,pm25:7.13,user:salvatore,pwd:lippi,created:   1488540890811}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.59,pm25:6.35,user:salvatore,pwd:lippi,created:   1488540950888}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.03,pm25:7.04,user:salvatore,pwd:lippi,created:   1488541191126}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.85,pm25:6.72,user:salvatore,pwd:lippi,created:   1488541251203}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.61,pm25:7.35,user:salvatore,pwd:lippi,created:   1488541491460}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.85,pm25:6.58,user:salvatore,pwd:lippi,created:   1488541551537}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.85,pm25:6.58,user:salvatore,pwd:lippi,created:   1488541611614}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.47,pm25:6.65,user:salvatore,pwd:lippi,created:   1488541851871}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.12,pm25:6.81,user:salvatore,pwd:lippi,created:   1488541911948}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.60,pm25:7.42,user:salvatore,pwd:lippi,created:   1488542152186}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.50,pm25:7.36,user:salvatore,pwd:lippi,created:   1488542212263}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.70,pm25:8.10,user:salvatore,pwd:lippi,created:   1488542452520}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.94,pm25:6.75,user:salvatore,pwd:lippi,created:   1488542512598}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.63,pm25:7.26,user:salvatore,pwd:lippi,created:   1488542752855}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.06,pm25:6.43,user:salvatore,pwd:lippi,created:   1488542812932}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.69,pm25:6.72,user:salvatore,pwd:lippi,created:   1488543053189}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.69,pm25:6.72,user:salvatore,pwd:lippi,created:   1488543113266}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.47,pm25:6.62,user:salvatore,pwd:lippi,created:   1488543173343}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.80,pm25:6.97,user:salvatore,pwd:lippi,created:   1488543413600}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.86,pm25:6.75,user:salvatore,pwd:lippi,created:   1488543473673}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.03,pm25:6.55,user:salvatore,pwd:lippi,created:   1488543713930}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.93,pm25:6.50,user:salvatore,pwd:lippi,created:   1488543774007}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.23,pm25:6.76,user:salvatore,pwd:lippi,created:   1488544014264}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.07,pm25:6.09,user:salvatore,pwd:lippi,created:   1488544074340}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.99,pm25:6.74,user:salvatore,pwd:lippi,created:   1488544314598}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.66,pm25:6.91,user:salvatore,pwd:lippi,created:   1488544374674}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.66,pm25:6.91,user:salvatore,pwd:lippi,created:   1488544434751}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.79,pm25:6.81,user:salvatore,pwd:lippi,created:   1488544675008}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.28,pm25:6.26,user:salvatore,pwd:lippi,created:   1488544735085}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.34,pm25:5.98,user:salvatore,pwd:lippi,created:   1488544975343}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.01,pm25:5.61,user:salvatore,pwd:lippi,created:   1488545035366}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.54,pm25:5.78,user:salvatore,pwd:lippi,created:   1488545275623}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.90,pm25:6.31,user:salvatore,pwd:lippi,created:   1488545335700}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.74,pm25:5.99,user:salvatore,pwd:lippi,created:   1488545575957}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.07,pm25:5.23,user:salvatore,pwd:lippi,created:   1488545636034}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.26,pm25:5.74,user:salvatore,pwd:lippi,created:   1488545876291}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.26,pm25:5.74,user:salvatore,pwd:lippi,created:   1488545936368}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.88,pm25:5.43,user:salvatore,pwd:lippi,created:   1488545996444}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.42,pm25:5.75,user:salvatore,pwd:lippi,created:   1488546236702}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.00,pm25:6.05,user:salvatore,pwd:lippi,created:   1488546296779}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.66,pm25:6.32,user:salvatore,pwd:lippi,created:   1488546537036}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.48,pm25:5.10,user:salvatore,pwd:lippi,created:   1488546597113}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.16,pm25:5.31,user:salvatore,pwd:lippi,created:   1488546837370}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.06,pm25:5.11,user:salvatore,pwd:lippi,created:   1488546897447}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.78,pm25:5.26,user:salvatore,pwd:lippi,created:   1488547137704}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.25,pm25:4.75,user:salvatore,pwd:lippi,created:   1488547197780}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.25,pm25:4.75,user:salvatore,pwd:lippi,created:   1488547257857}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.64,pm25:4.75,user:salvatore,pwd:lippi,created:   1488547498114}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.80,pm25:4.82,user:salvatore,pwd:lippi,created:   1488547558191}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.72,pm25:5.24,user:salvatore,pwd:lippi,created:   1488547798448}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.02,pm25:5.22,user:salvatore,pwd:lippi,created:   1488547858525}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.13,pm25:5.58,user:salvatore,pwd:lippi,created:   1488548098782}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.78,pm25:5.25,user:salvatore,pwd:lippi,created:   1488548158859}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.81,pm25:5.94,user:salvatore,pwd:lippi,created:   1488548399116}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.95,pm25:5.72,user:salvatore,pwd:lippi,created:   1488548459193}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.33,pm25:5.77,user:salvatore,pwd:lippi,created:   1488548699421}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.33,pm25:5.77,user:salvatore,pwd:lippi,created:   1488548759498}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.42,pm25:5.70,user:salvatore,pwd:lippi,created:   1488548819574}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.45,pm25:5.80,user:salvatore,pwd:lippi,created:   1488549059832}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.96,pm25:5.34,user:salvatore,pwd:lippi,created:   1488549119909}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.26,pm25:5.67,user:salvatore,pwd:lippi,created:   1488549360166}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.72,pm25:5.92,user:salvatore,pwd:lippi,created:   1488549420243}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.10,pm25:6.04,user:salvatore,pwd:lippi,created:   1488549660500}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.08,pm25:5.77,user:salvatore,pwd:lippi,created:   1488549720577}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.62,pm25:6.07,user:salvatore,pwd:lippi,created:   1488549960834}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.82,pm25:6.20,user:salvatore,pwd:lippi,created:   1488550020911}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.82,pm25:6.20,user:salvatore,pwd:lippi,created:   1488550080988}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.89,pm25:6.24,user:salvatore,pwd:lippi,created:   1488550321245}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.56,pm25:6.51,user:salvatore,pwd:lippi,created:   1488550381322}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.23,pm25:6.54,user:salvatore,pwd:lippi,created:   1488550621555}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.00,pm25:5.86,user:salvatore,pwd:lippi,created:   1488550681631}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.11,pm25:6.40,user:salvatore,pwd:lippi,created:   1488550921870}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.88,pm25:6.42,user:salvatore,pwd:lippi,created:   1488550981947}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.39,pm25:6.65,user:salvatore,pwd:lippi,created:   1488551222205}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.19,pm25:6.33,user:salvatore,pwd:lippi,created:   1488551282281}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.19,pm25:6.33,user:salvatore,pwd:lippi,created:   1488551342358}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.07,pm25:6.47,user:salvatore,pwd:lippi,created:   1488551582616}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.09,pm25:5.88,user:salvatore,pwd:lippi,created:   1488551642692}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.07,pm25:6.33,user:salvatore,pwd:lippi,created:   1488551882949}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.42,pm25:5.92,user:salvatore,pwd:lippi,created:   1488551943022}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.36,pm25:5.90,user:salvatore,pwd:lippi,created:   1488552183255}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.54,pm25:5.96,user:salvatore,pwd:lippi,created:   1488552243332}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.92,pm25:6.37,user:salvatore,pwd:lippi,created:   1488552483565}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.34,pm25:6.31,user:salvatore,pwd:lippi,created:   1488552543642}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.61,pm25:6.80,user:salvatore,pwd:lippi,created:   1488552783867}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.61,pm25:6.80,user:salvatore,pwd:lippi,created:   1488552843944}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.33,pm25:5.83,user:salvatore,pwd:lippi,created:   1488552904021}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.04,pm25:6.14,user:salvatore,pwd:lippi,created:   1488553144278}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.54,pm25:5.73,user:salvatore,pwd:lippi,created:   1488553204355}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.81,pm25:5.57,user:salvatore,pwd:lippi,created:   1488553444613}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.49,pm25:6.26,user:salvatore,pwd:lippi,created:   1488553504689}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.49,pm25:6.07,user:salvatore,pwd:lippi,created:   1488553744942}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.12,pm25:6.22,user:salvatore,pwd:lippi,created:   1488553805016}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.66,pm25:6.72,user:salvatore,pwd:lippi,created:   1488554045271}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.90,pm25:6.14,user:salvatore,pwd:lippi,created:   1488554105348}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.90,pm25:6.14,user:salvatore,pwd:lippi,created:   1488554165425}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.21,pm25:6.19,user:salvatore,pwd:lippi,created:   1488554405682}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.56,pm25:6.00,user:salvatore,pwd:lippi,created:   1488554465759}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.28,pm25:6.49,user:salvatore,pwd:lippi,created:   1488554706016}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.37,pm25:7.01,user:salvatore,pwd:lippi,created:   1488554766094}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.71,pm25:7.17,user:salvatore,pwd:lippi,created:   1488555006351}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.23,pm25:7.33,user:salvatore,pwd:lippi,created:   1488555066428}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.64,pm25:6.93,user:salvatore,pwd:lippi,created:   1488555306685}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.45,pm25:6.78,user:salvatore,pwd:lippi,created:   1488555366762}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.77,pm25:6.60,user:salvatore,pwd:lippi,created:   1488555606971}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.77,pm25:6.60,user:salvatore,pwd:lippi,created:   1488555667006}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.31,pm25:7.26,user:salvatore,pwd:lippi,created:   1488555727082}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.28,pm25:7.26,user:salvatore,pwd:lippi,created:   1488555967339}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.56,pm25:6.87,user:salvatore,pwd:lippi,created:   1488556027416}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.40,pm25:6.86,user:salvatore,pwd:lippi,created:   1488556267673}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.62,pm25:6.57,user:salvatore,pwd:lippi,created:   1488556327750}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.02,pm25:8.17,user:salvatore,pwd:lippi,created:   1488556568007}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.12,pm25:6.70,user:salvatore,pwd:lippi,created:   1488556628083}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.98,pm25:7.31,user:salvatore,pwd:lippi,created:   1488556868340}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.91,pm25:6.46,user:salvatore,pwd:lippi,created:   1488556928418}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.91,pm25:6.46,user:salvatore,pwd:lippi,created:   1488556988494}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.53,pm25:6.22,user:salvatore,pwd:lippi,created:   1488557228751}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.68,pm25:6.11,user:salvatore,pwd:lippi,created:   1488557288828}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.20,pm25:6.34,user:salvatore,pwd:lippi,created:   1488557529085}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.23,pm25:6.48,user:salvatore,pwd:lippi,created:   1488557589162}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.99,pm25:6.41,user:salvatore,pwd:lippi,created:   1488557829420}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.24,pm25:5.97,user:salvatore,pwd:lippi,created:   1488557889497}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.63,pm25:5.83,user:salvatore,pwd:lippi,created:   1488558129754}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.50,pm25:5.31,user:salvatore,pwd:lippi,created:   1488558189831}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.33,pm25:5.79,user:salvatore,pwd:lippi,created:   1488558430088}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.33,pm25:5.79,user:salvatore,pwd:lippi,created:   1488558490165}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.28,pm25:5.83,user:salvatore,pwd:lippi,created:   1488558550242}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.53,pm25:5.72,user:salvatore,pwd:lippi,created:   1488558790499}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.81,pm25:5.71,user:salvatore,pwd:lippi,created:   1488558850576}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.24,pm25:6.56,user:salvatore,pwd:lippi,created:   1488559090833}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.21,pm25:6.42,user:salvatore,pwd:lippi,created:   1488559150909}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.44,pm25:6.77,user:salvatore,pwd:lippi,created:   1488559391166}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.14,pm25:6.76,user:salvatore,pwd:lippi,created:   1488559451242}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.36,pm25:7.10,user:salvatore,pwd:lippi,created:   1488559691499}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.32,pm25:6.12,user:salvatore,pwd:lippi,created:   1488559751576}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.32,pm25:6.12,user:salvatore,pwd:lippi,created:   1488559811653}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.94,pm25:6.81,user:salvatore,pwd:lippi,created:   1488560051911}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.33,pm25:6.46,user:salvatore,pwd:lippi,created:   1488560111988}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.59,pm25:7.23,user:salvatore,pwd:lippi,created:   1488560352186}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.70,pm25:5.88,user:salvatore,pwd:lippi,created:   1488560412263}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.55,pm25:5.95,user:salvatore,pwd:lippi,created:   1488560652521}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.90,pm25:6.23,user:salvatore,pwd:lippi,created:   1488560712598}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.14,pm25:6.63,user:salvatore,pwd:lippi,created:   1488560952855}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.67,pm25:6.29,user:salvatore,pwd:lippi,created:   1488561012932}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.69,pm25:6.82,user:salvatore,pwd:lippi,created:   1488561253116}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.69,pm25:6.82,user:salvatore,pwd:lippi,created:   1488561313193}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.00,pm25:6.46,user:salvatore,pwd:lippi,created:   1488561373270}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.20,pm25:6.62,user:salvatore,pwd:lippi,created:   1488561613527}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:29.71,pm25:11.25,user:salvatore,pwd:lippi,created:   1488561673604}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:26.00,pm25:10.83,user:salvatore,pwd:lippi,created:   1488561913861}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:30.14,pm25:11.27,user:salvatore,pwd:lippi,created:   1488561973938}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:29.89,pm25:12.31,user:salvatore,pwd:lippi,created:   1488562214186}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:29.37,pm25:10.72,user:salvatore,pwd:lippi,created:   1488562274263}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:28.60,pm25:12.66,user:salvatore,pwd:lippi,created:   1488562514493}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:87.32,pm25:42.08,user:salvatore,pwd:lippi,created:   1488562574570}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:87.32,pm25:42.08,user:salvatore,pwd:lippi,created:   1488562634648}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:108.98,pm25:52.35,user:salvatore,pwd:lippi,created:   1488562874905}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:44.59,pm25:20.35,user:salvatore,pwd:lippi,created:   1488562934982}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:29.12,pm25:13.05,user:salvatore,pwd:lippi,created:   1488563175186}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.40,pm25:9.22,user:salvatore,pwd:lippi,created:   1488563235226}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.46,pm25:8.83,user:salvatore,pwd:lippi,created:   1488563475483}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.85,pm25:10.11,user:salvatore,pwd:lippi,created:   1488563535560}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.02,pm25:9.04,user:salvatore,pwd:lippi,created:   1488563775817}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:27.37,pm25:11.78,user:salvatore,pwd:lippi,created:   1488563835894}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:31.69,pm25:13.03,user:salvatore,pwd:lippi,created:   1488564076151}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:31.69,pm25:13.03,user:salvatore,pwd:lippi,created:   1488564136229}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:30.58,pm25:13.46,user:salvatore,pwd:lippi,created:   1488564196306}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:33.63,pm25:14.21,user:salvatore,pwd:lippi,created:   1488564436563}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:39.34,pm25:16.66,user:salvatore,pwd:lippi,created:   1488564496640}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:41.53,pm25:18.19,user:salvatore,pwd:lippi,created:   1488564736897}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:45.67,pm25:18.87,user:salvatore,pwd:lippi,created:   1488564796974}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:48.33,pm25:19.23,user:salvatore,pwd:lippi,created:   1488565037231}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:42.99,pm25:18.67,user:salvatore,pwd:lippi,created:   1488565097308}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:42.21,pm25:19.42,user:salvatore,pwd:lippi,created:   1488565337565}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:79.05,pm25:33.28,user:salvatore,pwd:lippi,created:   1488565397642}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:65.28,pm25:28.47,user:salvatore,pwd:lippi,created:   1488565637899}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:65.28,pm25:28.47,user:salvatore,pwd:lippi,created:   1488565697976}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:44.25,pm25:19.06,user:salvatore,pwd:lippi,created:   1488565758053}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.47,pm25:6.15,user:salvatore,pwd:lippi,created:   1488624697176}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=3.53,pm25=1.96    1488699327213'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.75,pm25=3.81    1488816074498'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.39,pm25:3.38,user:salvatore,pwd:lippi,created:   1488827569173}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.19,pm25:6.14,user:salvatore,pwd:lippi,created:   1488841696766}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:8.82,pm25:4.58,user:salvatore,pwd:lippi,created:   1489060969878}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.79,pm25:4.70,user:salvatore,pwd:lippi,created:   1489061220163}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.36,pm25:5.18,user:salvatore,pwd:lippi,created:   1489061291267}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.21,pm25:5.17,user:salvatore,pwd:lippi,created:   1489061541550}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.79,pm25=4.70    1489061220151'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.36,pm25=5.18    1489061290258'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.21,pm25=5.17    1489061541539'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.45,pm25=4.83    1489061602804'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.35,pm25=5.36    1489110809318'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:5.51,pm25:2.33,user:salvatore,pwd:lippi,created:   1489204885923}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.52,pm25=3.85    1489252272733'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.00,pm25=3.68    1489252514861'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.59,pm25=3.55    1489252576964'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=7.09,pm25=3.74    1489252819295'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=7.39,pm25=3.91    1489252881274'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.18,pm25=3.66    1489253123266'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=5.93,pm25=3.07    1489253730724'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=6.91,pm25=3.06    1489255607582'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=8.05,pm25=3.30    1489255669513'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=6.96,pm25=3.20    1489261289811'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=8.09,pm25=3.19    1489261351831'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=8.52,pm25=3.15    1489261593755'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.69,pm25=5.27    1489335285792'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.38,pm25:5.14,user:salvatore,pwd:lippi,created:   1489430718488}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.46,pm25=5.05    1489449776359'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.20,pm25=4.89    1489449846464'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.46,pm25:5.05,user:salvatore,pwd:lippi,created:   1489449776370}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.20,pm25:4.89,user:salvatore,pwd:lippi,created:   1489449846479}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.66,pm25=5.93    1489519454530'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.53,pm25=6.42    1489711647117'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.79,pm25=8.91    1489957792434'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.45,pm25:6.24,user:salvatore,pwd:lippi,created:   1490133173350}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.09,pm25:6.03,user:salvatore,pwd:lippi,created:   1490133413957}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.18,pm25:6.44,user:salvatore,pwd:lippi,created:   1490133474511}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.39,pm25:6.81,user:salvatore,pwd:lippi,created:   1490133716135}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.51,pm25:6.39,user:salvatore,pwd:lippi,created:   1490133777742}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.05,pm25:6.48,user:salvatore,pwd:lippi,created:   1490134019393}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.96,pm25:6.37,user:salvatore,pwd:lippi,created:   1490134080807}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.24,pm25:6.74,user:salvatore,pwd:lippi,created:   1490134322352}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.38,pm25:6.80,user:salvatore,pwd:lippi,created:   1490134383725}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.38,pm25:6.80,user:salvatore,pwd:lippi,created:   1490134445149}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.35,pm25:7.37,user:salvatore,pwd:lippi,created:   1490134686871}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.09,pm25:7.04,user:salvatore,pwd:lippi,created:   1490134748283}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.33,pm25:7.04,user:salvatore,pwd:lippi,created:   1490134989842}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.95,pm25:6.58,user:salvatore,pwd:lippi,created:   1490135051211}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.82,pm25:7.04,user:salvatore,pwd:lippi,created:   1490135291661}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.60,pm25:6.95,user:salvatore,pwd:lippi,created:   1490135351958}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.05,pm25:6.41,user:salvatore,pwd:lippi,created:   1490135592484}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.53,pm25:6.07,user:salvatore,pwd:lippi,created:   1490135652771}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.91,pm25:6.33,user:salvatore,pwd:lippi,created:   1490135955878}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.01,pm25:6.73,user:salvatore,pwd:lippi,created:   1490136196350}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.01,pm25:6.73,user:salvatore,pwd:lippi,created:   1490136256749}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.53,pm25:6.21,user:salvatore,pwd:lippi,created:   1490162563804}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.47,pm25:6.54,user:salvatore,pwd:lippi,created:   1490177957178}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.09,pm25:6.00,user:salvatore,pwd:lippi,created:   1490178028274}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.80,pm25:5.95,user:salvatore,pwd:lippi,created:   1490178278551}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.53,pm25:5.78,user:salvatore,pwd:lippi,created:   1490178348648}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.24,pm25:6.00,user:salvatore,pwd:lippi,created:   1490178598929}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.31,pm25:5.76,user:salvatore,pwd:lippi,created:   1490178669026}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.30,pm25:5.98,user:salvatore,pwd:lippi,created:   1490178859244}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.79,pm25:5.67,user:salvatore,pwd:lippi,created:   1490178929339}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:8.64,pm25:5.87,user:salvatore,pwd:lippi,created:   1490179179615}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.86,pm25:6.04,user:salvatore,pwd:lippi,created:   1490179249717}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.29,pm25:6.21,user:salvatore,pwd:lippi,created:   1490179499993}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.31,pm25:6.11,user:salvatore,pwd:lippi,created:   1490179570091}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.98,pm25:6.22,user:salvatore,pwd:lippi,created:   1490179820289}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.56,pm25:5.77,user:salvatore,pwd:lippi,created:   1490179890385}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.21,pm25:5.81,user:salvatore,pwd:lippi,created:   1490180140660}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.40,pm25:5.79,user:salvatore,pwd:lippi,created:   1490180210757}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.67,pm25:5.72,user:salvatore,pwd:lippi,created:   1490180461033}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.16,pm25:6.07,user:salvatore,pwd:lippi,created:   1490180531122}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.47,pm25:5.99,user:salvatore,pwd:lippi,created:   1490180781398}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.27,pm25:5.78,user:salvatore,pwd:lippi,created:   1490180851495}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.47,pm25:6.04,user:salvatore,pwd:lippi,created:   1490181101770}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.14,pm25:5.59,user:salvatore,pwd:lippi,created:   1490181171871}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:8.52,pm25:6.15,user:salvatore,pwd:lippi,created:   1490181422140}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.49,pm25:6.16,user:salvatore,pwd:lippi,created:   1490181492239}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.52,pm25:6.78,user:salvatore,pwd:lippi,created:   1490181682437}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.29,pm25:6.35,user:salvatore,pwd:lippi,created:   1490181752535}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.12,pm25:6.27,user:salvatore,pwd:lippi,created:   1490182002811}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.52,pm25:6.67,user:salvatore,pwd:lippi,created:   1490182072892}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.15,pm25:6.73,user:salvatore,pwd:lippi,created:   1490182323120}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.55,pm25:6.57,user:salvatore,pwd:lippi,created:   1490182393216}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.33,pm25:6.73,user:salvatore,pwd:lippi,created:   1490182643495}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.76,pm25:6.56,user:salvatore,pwd:lippi,created:   1490182713626}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.70,pm25:6.80,user:salvatore,pwd:lippi,created:   1490182963892}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.94,pm25:6.73,user:salvatore,pwd:lippi,created:   1490183033990}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.73,pm25:6.83,user:salvatore,pwd:lippi,created:   1490183284241}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.22,pm25:6.66,user:salvatore,pwd:lippi,created:   1490183354316}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.18,pm25:7.15,user:salvatore,pwd:lippi,created:   1490183604596}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.01,pm25:6.42,user:salvatore,pwd:lippi,created:   1490183674691}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.39,pm25:6.61,user:salvatore,pwd:lippi,created:   1490183924956}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.87,pm25:6.50,user:salvatore,pwd:lippi,created:   1490183995052}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.32,pm25:6.17,user:salvatore,pwd:lippi,created:   1490184245301}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.96,pm25:6.91,user:salvatore,pwd:lippi,created:   1490184315400}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.60,pm25:6.44,user:salvatore,pwd:lippi,created:   1490184505615}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.65,pm25:6.60,user:salvatore,pwd:lippi,created:   1490184575713}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.04,pm25:6.83,user:salvatore,pwd:lippi,created:   1490184825954}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.93,pm25:6.31,user:salvatore,pwd:lippi,created:   1490184896065}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.24,pm25:6.65,user:salvatore,pwd:lippi,created:   1490185146297}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.65,pm25:7.03,user:salvatore,pwd:lippi,created:   1490185216560}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.47,pm25:7.67,user:salvatore,pwd:lippi,created:   1490185466837}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.49,pm25:7.22,user:salvatore,pwd:lippi,created:   1490185536933}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.64,pm25:7.31,user:salvatore,pwd:lippi,created:   1490185787212}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.09,pm25:7.54,user:salvatore,pwd:lippi,created:   1490185857312}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.70,pm25:7.33,user:salvatore,pwd:lippi,created:   1490186107590}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.63,pm25:8.36,user:salvatore,pwd:lippi,created:   1490186177689}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.92,pm25:7.70,user:salvatore,pwd:lippi,created:   1490186427965}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.72,pm25:7.53,user:salvatore,pwd:lippi,created:   1490186498062}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.68,pm25:7.99,user:salvatore,pwd:lippi,created:   1490186748338}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.74,pm25:7.30,user:salvatore,pwd:lippi,created:   1490186818435}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.65,pm25:8.03,user:salvatore,pwd:lippi,created:   1490187068711}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.88,pm25:7.68,user:salvatore,pwd:lippi,created:   1490187138808}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.00,pm25:7.97,user:salvatore,pwd:lippi,created:   1490187328989}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.21,pm25:7.47,user:salvatore,pwd:lippi,created:   1490187399085}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.36,pm25:7.86,user:salvatore,pwd:lippi,created:   1490187649360}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.57,pm25:7.60,user:salvatore,pwd:lippi,created:   1490187719458}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.92,pm25:7.68,user:salvatore,pwd:lippi,created:   1490187969734}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.78,pm25:6.92,user:salvatore,pwd:lippi,created:   1490188039832}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.11,pm25:7.26,user:salvatore,pwd:lippi,created:   1490188290108}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.37,pm25:7.36,user:salvatore,pwd:lippi,created:   1490188360205}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.14,pm25:6.69,user:salvatore,pwd:lippi,created:   1490188610482}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.89,pm25:7.00,user:salvatore,pwd:lippi,created:   1490188680583}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.01,pm25:7.31,user:salvatore,pwd:lippi,created:   1490188930800}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.51,pm25:7.38,user:salvatore,pwd:lippi,created:   1490189000891}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.48,pm25:7.10,user:salvatore,pwd:lippi,created:   1490189251170}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.98,pm25:6.86,user:salvatore,pwd:lippi,created:   1490189321244}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.19,pm25:7.17,user:salvatore,pwd:lippi,created:   1490189571521}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.81,pm25:6.82,user:salvatore,pwd:lippi,created:   1490189641615}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.23,pm25:7.15,user:salvatore,pwd:lippi,created:   1490189891889}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.45,pm25:6.60,user:salvatore,pwd:lippi,created:   1490189961984}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.35,pm25:6.89,user:salvatore,pwd:lippi,created:   1490190152179}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.51,pm25:6.97,user:salvatore,pwd:lippi,created:   1490190222247}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.03,pm25:6.88,user:salvatore,pwd:lippi,created:   1490190472532}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.88,pm25:7.90,user:salvatore,pwd:lippi,created:   1490190542634}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.44,pm25:7.61,user:salvatore,pwd:lippi,created:   1490190792890}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.40,pm25:7.95,user:salvatore,pwd:lippi,created:   1490190862943}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.08,pm25:7.93,user:salvatore,pwd:lippi,created:   1490191113180}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.15,pm25:8.30,user:salvatore,pwd:lippi,created:   1490191183261}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.90,pm25:8.46,user:salvatore,pwd:lippi,created:   1490191433537}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.32,pm25:7.98,user:salvatore,pwd:lippi,created:   1490191503594}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.27,pm25:8.52,user:salvatore,pwd:lippi,created:   1490191753870}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.23,pm25:7.68,user:salvatore,pwd:lippi,created:   1490191823967}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.87,pm25:8.05,user:salvatore,pwd:lippi,created:   1490192074243}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.74,pm25:7.90,user:salvatore,pwd:lippi,created:   1490192144341}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.24,pm25:7.68,user:salvatore,pwd:lippi,created:   1490192394571}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.22,pm25:7.50,user:salvatore,pwd:lippi,created:   1490192464667}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.31,pm25:7.96,user:salvatore,pwd:lippi,created:   1490192714909}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.17,pm25:7.35,user:salvatore,pwd:lippi,created:   1490192785013}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.85,pm25:7.74,user:salvatore,pwd:lippi,created:   1490192975233}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.86,pm25:7.63,user:salvatore,pwd:lippi,created:   1490193045329}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.19,pm25:8.04,user:salvatore,pwd:lippi,created:   1490193295605}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.20,pm25:7.38,user:salvatore,pwd:lippi,created:   1490193365701}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.33,pm25:7.58,user:salvatore,pwd:lippi,created:   1490193615951}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.60,pm25:7.68,user:salvatore,pwd:lippi,created:   1490193686045}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.92,pm25:7.71,user:salvatore,pwd:lippi,created:   1490193936320}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.43,pm25:7.30,user:salvatore,pwd:lippi,created:   1490194006417}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.16,pm25:7.28,user:salvatore,pwd:lippi,created:   1490194256694}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.47,pm25:7.12,user:salvatore,pwd:lippi,created:   1490194326789}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.37,pm25:7.70,user:salvatore,pwd:lippi,created:   1490194577015}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.78,pm25:7.56,user:salvatore,pwd:lippi,created:   1490194647072}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.00,pm25:7.67,user:salvatore,pwd:lippi,created:   1490194897325}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.13,pm25:7.23,user:salvatore,pwd:lippi,created:   1490194967422}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.01,pm25:7.64,user:salvatore,pwd:lippi,created:   1490195217694}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.18,pm25:7.34,user:salvatore,pwd:lippi,created:   1490195287801}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.79,pm25:7.67,user:salvatore,pwd:lippi,created:   1490195538079}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.78,pm25:7.63,user:salvatore,pwd:lippi,created:   1490195608121}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.73,pm25:7.78,user:salvatore,pwd:lippi,created:   1490195798337}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.08,pm25:7.45,user:salvatore,pwd:lippi,created:   1490195868433}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.25,pm25:7.93,user:salvatore,pwd:lippi,created:   1490196118685}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.15,pm25:7.59,user:salvatore,pwd:lippi,created:   1490196188780}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.04,pm25:8.19,user:salvatore,pwd:lippi,created:   1490196439058}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.57,pm25:8.04,user:salvatore,pwd:lippi,created:   1490196509154}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.31,pm25:8.08,user:salvatore,pwd:lippi,created:   1490196759385}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.03,pm25:7.85,user:salvatore,pwd:lippi,created:   1490196829480}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.98,pm25:8.12,user:salvatore,pwd:lippi,created:   1490197079757}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.47,pm25=6.54    1490177956169'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.09,pm25=6.00    1490178027265'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.80,pm25=5.95    1490178278541'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.53,pm25=5.78    1490178348638'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.24,pm25=6.00    1490178598917'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.31,pm25=5.76    1490178669015'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.30,pm25=5.98    1490178859233'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.79,pm25=5.67    1490178929329'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=8.64,pm25=5.87    1490179179605'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.86,pm25=6.04    1490179249706'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.29,pm25=6.21    1490179499983'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.31,pm25=6.11    1490179570079'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.98,pm25=6.22    1490179820279'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.56,pm25=5.77    1490179890374'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.21,pm25=5.81    1490180140650'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.40,pm25=5.79    1490180210746'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.67,pm25=5.72    1490180461023'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.16,pm25=6.07    1490180531111'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.47,pm25=5.99    1490180781387'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.27,pm25=5.78    1490180851485'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.47,pm25=6.04    1490181101760'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.14,pm25=5.59    1490181171859'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=8.52,pm25=6.15    1490181422129'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.49,pm25=6.16    1490181492229'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.52,pm25=6.78    1490181682426'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.29,pm25=6.35    1490181752524'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.12,pm25=6.27    1490182002800'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.52,pm25=6.67    1490182072882'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.15,pm25=6.73    1490182323109'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.55,pm25=6.57    1490182393206'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.33,pm25=6.73    1490182643484'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.76,pm25=6.56    1490182713616'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.70,pm25=6.80    1490182963881'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.94,pm25=6.73    1490183033977'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.73,pm25=6.83    1490183284231'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.22,pm25=6.66    1490183354306'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.18,pm25=7.15    1490183604576'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.01,pm25=6.42    1490183674681'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.39,pm25=6.61    1490183924946'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.87,pm25=6.50    1490183995042'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.32,pm25=6.17    1490184245291'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.96,pm25=6.91    1490184315389'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.60,pm25=6.44    1490184505605'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.65,pm25=6.60    1490184575701'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.04,pm25=6.83    1490184825941'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.93,pm25=6.31    1490184896055'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.24,pm25=6.65    1490185146285'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.65,pm25=7.03    1490185216548'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.47,pm25=7.67    1490185466827'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.49,pm25=7.22    1490185536923'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.64,pm25=7.31    1490185787201'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.09,pm25=7.54    1490185857300'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.70,pm25=7.33    1490186107580'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.63,pm25=8.36    1490186177678'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.92,pm25=7.70    1490186427955'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.72,pm25=7.53    1490186498051'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.68,pm25=7.99    1490186748328'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.74,pm25=7.30    1490186818425'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.65,pm25=8.03    1490187068701'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.88,pm25=7.68    1490187138798'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.00,pm25=7.97    1490187328979'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.21,pm25=7.47    1490187399074'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.36,pm25=7.86    1490187649350'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.57,pm25=7.60    1490187719447'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.92,pm25=7.68    1490187969724'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.78,pm25=6.92    1490188039822'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.11,pm25=7.26    1490188290098'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.37,pm25=7.36    1490188360195'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.14,pm25=6.69    1490188610472'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.89,pm25=7.00    1490188680572'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.01,pm25=7.31    1490188930789'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.51,pm25=7.38    1490189000881'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.48,pm25=7.10    1490189251159'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.98,pm25=6.86    1490189321233'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.19,pm25=7.17    1490189571511'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.81,pm25=6.82    1490189641604'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.23,pm25=7.15    1490189891879'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.45,pm25=6.60    1490189961974'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.35,pm25=6.89    1490190152169'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.51,pm25=6.97    1490190222234'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.03,pm25=6.88    1490190472520'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.88,pm25=7.90    1490190542620'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.44,pm25=7.61    1490190792879'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.40,pm25=7.95    1490190862932'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.08,pm25=7.93    1490191113170'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.15,pm25=8.30    1490191183251'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.90,pm25=8.46    1490191433527'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.32,pm25=7.98    1490191503583'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.27,pm25=8.52    1490191753858'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.23,pm25=7.68    1490191823956'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.87,pm25=8.05    1490192074231'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.74,pm25=7.90    1490192144328'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.24,pm25=7.68    1490192394561'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.22,pm25=7.50    1490192464656'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.31,pm25=7.96    1490192714899'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.17,pm25=7.35    1490192784998'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.85,pm25=7.74    1490192975219'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.86,pm25=7.63    1490193045318'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.19,pm25=8.04    1490193295594'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.20,pm25=7.38    1490193365692'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.33,pm25=7.58    1490193615939'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.60,pm25=7.68    1490193686036'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.92,pm25=7.71    1490193936309'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.43,pm25=7.30    1490194006405'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.16,pm25=7.28    1490194256683'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.47,pm25=7.12    1490194326779'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.37,pm25=7.70    1490194577001'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.78,pm25=7.56    1490194647060'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.00,pm25=7.67    1490194897309'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.13,pm25=7.23    1490194967412'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.01,pm25=7.64    1490195217683'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.18,pm25=7.34    1490195287787'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.79,pm25=7.67    1490195538068'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.78,pm25=7.63    1490195608111'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.73,pm25=7.78    1490195798326'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=14.08,pm25=7.45    1490195868423'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.25,pm25=7.93    1490196118671'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.15,pm25=7.59    1490196188770'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=16.04,pm25=8.19    1490196439046'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.57,pm25=8.04    1490196509144'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.31,pm25=8.08    1490196759374'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=12.03,pm25=7.85    1490196829470'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.98,pm25=8.12    1490197079747'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=13.56,pm25=7.72    1490197140948'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.16,pm25:8.61,user:salvatore,pwd:lippi,created:   1490205611559}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.58,pm25:8.17,user:salvatore,pwd:lippi,created:   1490219429227}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.88,pm25=8.01    1490219970963'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.14,pm25=8.34    1490220031056'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=15.06,pm25=8.36    1490220272280'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.66,pm25=7.72    1490220333441'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.88,pm25:8.01,user:salvatore,pwd:lippi,created:   1490219970986}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.14,pm25:8.34,user:salvatore,pwd:lippi,created:   1490220031063}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.06,pm25:8.36,user:salvatore,pwd:lippi,created:   1490220272365}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.66,pm25:7.72,user:salvatore,pwd:lippi,created:   1490220333594}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.93,pm25:7.93,user:salvatore,pwd:lippi,created:   1490220574685}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.78,pm25:7.74,user:salvatore,pwd:lippi,created:   1490220635146}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.75,pm25:8.14,user:salvatore,pwd:lippi,created:   1490220875760}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.75,pm25:8.14,user:salvatore,pwd:lippi,created:   1490220936118}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.24,pm25:7.72,user:salvatore,pwd:lippi,created:   1490220997522}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.83,pm25:7.98,user:salvatore,pwd:lippi,created:   1490221239054}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.75,pm25:7.75,user:salvatore,pwd:lippi,created:   1490221300409}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.63,pm25:7.94,user:salvatore,pwd:lippi,created:   1490221543074}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.46,pm25:7.50,user:salvatore,pwd:lippi,created:   1490221604432}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.10,pm25:7.87,user:salvatore,pwd:lippi,created:   1490221845134}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.50,pm25:7.18,user:salvatore,pwd:lippi,created:   1490221905693}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.90,pm25:7.34,user:salvatore,pwd:lippi,created:   1490222146331}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.77,pm25:7.22,user:salvatore,pwd:lippi,created:   1490222206617}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.20,pm25:7.63,user:salvatore,pwd:lippi,created:   1490222448220}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.01,pm25:7.26,user:salvatore,pwd:lippi,created:   1490222509646}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.01,pm25:7.26,user:salvatore,pwd:lippi,created:   1490222571130}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.58,pm25:7.63,user:salvatore,pwd:lippi,created:   1490222811789}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.42,pm25:6.83,user:salvatore,pwd:lippi,created:   1490222872129}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.45,pm25:7.33,user:salvatore,pwd:lippi,created:   1490223112891}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.78,pm25:7.27,user:salvatore,pwd:lippi,created:   1490223174300}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.64,pm25:7.63,user:salvatore,pwd:lippi,created:   1490223481903}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.63,pm25:6.74,user:salvatore,pwd:lippi,created:   1490281218652}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.49,pm25:10.61,user:salvatore,pwd:lippi,created:   1490352355657}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.83,pm25:10.56,user:salvatore,pwd:lippi,created:   1490354286571}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.13,pm25:9.14,user:salvatore,pwd:lippi,created:   1490363941412}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.83,pm25=6.52    1490373418734'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.83,pm25:6.52,user:salvatore,pwd:lippi,created:   1490373419743}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.61,pm25:7.49,user:salvatore,pwd:lippi,created:   1490448296371}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:8.72,pm25:4.34,user:salvatore,pwd:lippi,created:   1490482263467}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.20,pm25:3.52,user:salvatore,pwd:lippi,created:   1490492890916}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.19,pm25:2.64,user:salvatore,pwd:lippi,created:   1490539280444}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=7.55,pm25=4.10    1490643044741'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=7.75,pm25=3.03    1490649080595'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:5.54,pm25:3.38,user:salvatore,pwd:lippi,created:   1490700538948}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.39,pm25:5.12,user:salvatore,pwd:lippi,created:   1490737217741}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.38,pm25:5.65,user:salvatore,pwd:lippi,created:   1490737459202}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.82,pm25:5.04,user:salvatore,pwd:lippi,created:   1490737761573}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.18,pm25:4.91,user:salvatore,pwd:lippi,created:   1490737823047}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.50,pm25:5.21,user:salvatore,pwd:lippi,created:   1490738491144}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.11,pm25:5.17,user:salvatore,pwd:lippi,created:   1490741512276}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.23,pm25:5.32,user:salvatore,pwd:lippi,created:   1490742179463}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:7.14,pm25:4.50,user:salvatore,pwd:lippi,created:   1490743510389}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.92,pm25:4.99,user:salvatore,pwd:lippi,created:   1490744657572}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.06,pm25:5.14,user:salvatore,pwd:lippi,created:   1490744719146}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:7.93,pm25:4.84,user:salvatore,pwd:lippi,created:   1490745024228}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:7.93,pm25:4.84,user:salvatore,pwd:lippi,created:   1490745085710}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.33,pm25:5.11,user:salvatore,pwd:lippi,created:   1490748170584}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.79,pm25:5.00,user:salvatore,pwd:lippi,created:   1490748474308}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:7.89,pm25:4.87,user:salvatore,pwd:lippi,created:   1490748535662}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:8.78,pm25:4.79,user:salvatore,pwd:lippi,created:   1490749079426}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:9.00,pm25:4.45,user:salvatore,pwd:lippi,created:   1490824664725}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=11.62,pm25=6.52    1490875758012'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.21,pm25:5.74,user:salvatore,pwd:lippi,created:   1490897716572}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.75,pm25:5.74,user:salvatore,pwd:lippi,created:   1490910927013}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.83,pm25=5.73    1490944168155'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.65,pm25:8.59,user:salvatore,pwd:lippi,created:   1490985920488}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.98,pm25:8.54,user:salvatore,pwd:lippi,created:   1490988394899}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.52,pm25:7.68,user:salvatore,pwd:lippi,created:   1490990024526}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.55,pm25:8.13,user:salvatore,pwd:lippi,created:   1490991895044}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:19.56,pm25:7.88,user:salvatore,pwd:lippi,created:   1491045762735}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.94,pm25:6.19,user:salvatore,pwd:lippi,created:   1491055237946}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.76,pm25:5.07,user:salvatore,pwd:lippi,created:   1491068388778}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.88,pm25:7.81,user:salvatore,pwd:lippi,created:   1491077138428}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:16.72,pm25:7.52,user:salvatore,pwd:lippi,created:   1491087521424}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.20,pm25:9.86,user:salvatore,pwd:lippi,created:   1491124505781}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:44.71,pm25:21.30,user:salvatore,pwd:lippi,created:   1491137116534}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:24.97,pm25:14.96,user:salvatore,pwd:lippi,created:   1491147132452}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.88,pm25:14.43,user:salvatore,pwd:lippi,created:   1491149684819}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:25.78,pm25:13.60,user:salvatore,pwd:lippi,created:   1491151199277}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:22.76,pm25:10.75,user:salvatore,pwd:lippi,created:   1491155617405}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:20.15,pm25:10.09,user:salvatore,pwd:lippi,created:   1491158698668}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.05,pm25:10.08,user:salvatore,pwd:lippi,created:   1491159604749}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.70,pm25:9.88,user:salvatore,pwd:lippi,created:   1491162450259}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.01,pm25:10.16,user:salvatore,pwd:lippi,created:   1491164023914}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.94,pm25:9.81,user:salvatore,pwd:lippi,created:   1491164389266}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.32,pm25:9.40,user:salvatore,pwd:lippi,created:   1491165236043}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.51,pm25=10.40    1491177204206'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.73,pm25:8.21,user:salvatore,pwd:lippi,created:   1491206409421}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.94,pm25:8.03,user:salvatore,pwd:lippi,created:   1491207314790}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:15.68,pm25:8.42,user:salvatore,pwd:lippi,created:   1491227111458}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.22,pm25:7.68,user:salvatore,pwd:lippi,created:   1491303621879}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.72,pm25:7.11,user:salvatore,pwd:lippi,created:   1491325218894}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:49.29,pm25:46.25,user:salvatore,pwd:lippi,created:   1491331257817}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:47.77,pm25:44.45,user:salvatore,pwd:lippi,created:   1491331499329}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:40.61,pm25:38.61,user:salvatore,pwd:lippi,created:   1491333373189}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:40.78,pm25:37.81,user:salvatore,pwd:lippi,created:   1491334037933}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:37.67,pm25:35.83,user:salvatore,pwd:lippi,created:   1491335609343}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.99,pm25:20.45,user:salvatore,pwd:lippi,created:   1491349437977}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:23.82,pm25:15.40,user:salvatore,pwd:lippi,created:   1491411454105}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=17.96,pm25=12.50    1491491459293'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=18.43,pm25=12.46    1491491530382'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:17.96,pm25:12.50,user:salvatore,pwd:lippi,created:   1491491460302}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:18.43,pm25:12.46,user:salvatore,pwd:lippi,created:   1491491530393}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=10.76,pm25=6.59    1491531318589'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.33,pm25=6.72    1491531639259'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=8.78,pm25=6.52    1491531709622'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:10.67,pm25:6.12,user:salvatore,pwd:lippi,created:   1491623839603}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:12.51,pm25:6.95,user:salvatore,pwd:lippi,created:   1491724479281}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.33,pm25:8.26,user:salvatore,pwd:lippi,created:   1491751810685}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:259.03,pm25:121.94,user:salvatore,pwd:lippi,created:   1491772507733}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:34.46,pm25:19.53,user:salvatore,pwd:lippi,created:   1491813907999}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=8.76,pm25=5.73    1491879196786'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.23,pm25:6.32,user:salvatore,pwd:lippi,created:   1491955469569}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:11.10,pm25:6.50,user:salvatore,pwd:lippi,created:   1491965123898}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:8.48,pm25:5.73,user:salvatore,pwd:lippi,created:   1492002106643}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:13.01,pm25:8.39,user:salvatore,pwd:lippi,created:   1492040718753}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=9.66,pm25=5.67    1492136067656'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:14.04,pm25:7.42,user:salvatore,pwd:lippi,created:   1492219283529}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:21.61,pm25:10.49,user:salvatore,pwd:lippi,created:   1492280349459}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Lippi pm10=7.22,pm25=5.58    1492365078988'
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:6.35,pm25:4.96,user:salvatore,pwd:lippi,created:   1492388033910}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:7.32,pm25:3.32,user:salvatore,pwd:lippi,created:   1492464262636}' http://92.223.147.77/nodered/sensor
+curl -H 'Content-Type: application/json' -X POST -d '{id_sensor:1,pm10:6.44,pm25:3.19,user:salvatore,pwd:lippi,created:   1492473617979}' http://92.223.147.77/nodered/sensor
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=3.33    1494752474153'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=6.25    1494792088200'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=8.17    1494809640057'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=4.75    1495007491475'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=6.67    1495021007417'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=4.17    1495077986475'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=7.67    1495198997644'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=4.83    1495226976634'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=4.08    1495319951492'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=3.25    1495412403545'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=7.00    1495460039208'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=7.83    1495698854739'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=2.25    1495779540034'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=2.83    1495844424644'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=6.08    1496110192365'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=5.92    1496147279799'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=7.83    1496284894128'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=9.58    1496370332575'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=9.00    1496387642083'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=10.00    1496476210081'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=7.17    1496560187228'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=6.67    1496677008584'
+curl -H -XPOST 'http://salvatorehost.no-ip.org/db/write?db=ninuxaria&precision=ms' --data-binary 'aria,node=Firenze::Qbit pm10=0.00,pm25=5.83    1496743994840'

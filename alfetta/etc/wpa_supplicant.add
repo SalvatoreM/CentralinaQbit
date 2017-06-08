@@ -1,0 +1,5 @@
+network={
+	ssid="Mywifi"
+	#psk="Mypassword"
+	psk=c250f6ac55f1e138225712345675ff94989806accd89adbd37b6b766aff165e10
+}

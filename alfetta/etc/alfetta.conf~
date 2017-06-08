@@ -1,0 +1,11 @@
+nome=Firenze::Qbit
+lat=+43.8048075
+lon=+11.2321748
+k1=1.0
+q1=0.0
+k2=1.0
+q2=0.0
+sensore=QBIT
+user=salvatore
+id=1
+host=salvatorehost.no-ip.org,InfluxDB
